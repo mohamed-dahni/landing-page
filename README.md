@@ -1,5 +1,4 @@
 # Landing page
-## Description
 This website is a simple landing page to present a company's services.
 
 ## Demo
